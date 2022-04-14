@@ -7,8 +7,8 @@ Cette application a été développé sous Android Studio Bumblebee | 2021.1.1 P
 ## Installation
 
 - en mode debug, via android studio.
-Après avoir ouvert android studio, dézipper le fichier "WifiShareApp-version de soumission.rar".
-Avant de sélectionner le dossier dézippé, supprimer les dossiers ".gradle" et ".idea". Ils vont se re-créer au moment de l'import d'android studio.
+Après avoir ouvert android studio, dézippez le fichier "WifiShareApp-version de soumission.rar".
+Avant de sélectionner le dossier dézippé, supprimez les dossiers ".gradle" et ".idea". Ils vont se re-créer au moment de l'import d'android studio.
 
 - En installant directement l'app (fichier Wifi-share-app.apk) sur le smartphone. (Auparavant, permettre l'installation d'apps de sources inconnues.)
 
